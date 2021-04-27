@@ -8,6 +8,7 @@ This is the Horiseon home page that informs customers what they can get from Hor
 * CSS
 
 ## Website
+https://ryma1738.github.io/Horiseon/
 
 ## Contribution
 Made by Ryan Jepson
